@@ -1,5 +1,5 @@
 # Movies-Recommendation-System
-I have created this project of Movies Recommendation System using Python and Streamlit and hosted on Heroku. Visit the website: http://ssk-mrs.herokuapp.com/
+I have created this project of Movies Recommendation System using Python and Streamlit and deployed & hosted on Heroku. Visit the website: https://ssk-weather-app.herokuapp.com/
 
 # Steps -> 
 1. Export .csv files from Movie_data.zip.
